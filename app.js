@@ -96,11 +96,7 @@ function removeFromCart(id) {
 
 
 
-/* function removeFromCart(productId) {
-  cartItems = cartItems.filter((item) => item.id !== productId);
-  
-  renderCart();
-} */
+
 
 /* Går gjennom hvert produkt i products-arrayet og kaller renderProduct-funksjonen for å vise produktet i produktlisten. */
 
